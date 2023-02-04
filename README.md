@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/katasec/ark-docs/blob/main/katasec_ark.png" alt="Katasec Ark Document "></p>
+
 This the first documentation for ARK - just a test - Egal Egal
 
 These are the contents for Ark documentation.
